@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:  gold;
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+.marge{
+    height: 400px;
+    margin: 0px;
+    background-color: yellow;
+    background-image: url(../images/pngwing.com.png);
+    background-size: 120px;
+    background-repeat: no-repeat;
+    background-position: 400px ;
+
+}
+.homero{
+    height: 400px;
+    margin: 0px;
+    background-color: orange;
+    background-image: url(../images/homero.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: 400px;
+
+}
+h1{
+    font-family: 'Dokdo', cursive;
+}
